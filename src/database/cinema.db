@@ -1,0 +1,6 @@
+CREATE TABLE sessao (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    horario_inicio TEXT NOT NULL,
+    horario_fim TEXT NOT NULL,
+    publico INTEGER DEFAULT 0
+);
