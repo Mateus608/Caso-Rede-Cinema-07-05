@@ -8,9 +8,13 @@ class SessaoService:
     def cadastrar_sessao(self, sessao):
 
         if not sessao.horario_inicio:
-            raise Exception("Horário inicial inválido")
+            raise Exception(
+                "Horário inicial inválido"
+            )
 
         if not sessao.horario_fim:
-            raise Exception("Horário final inválido")
+            raise Exception(
+                "Horário final inválido"
+            )
 
         self.repository.salvar(sessao)
