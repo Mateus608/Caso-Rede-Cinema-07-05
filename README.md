@@ -63,4 +63,5 @@ SQLite
 
 Para iniciar a aplicação, execute no seu terminal o comando `python src/main.py`
 
-<img width="1536" height="1024" alt="view" src="https://github.com/user-attachments/assets/5c3fde4d-e921-4ec9-9c94-c7237e031eb3" />
+<img width="642" height="273" alt="Captura de tela 2026-05-07 210927" src="https://github.com/user-attachments/assets/0e8191cd-0edc-4b7b-b52a-4e5b378353ee" />
+
